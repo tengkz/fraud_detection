@@ -2,7 +2,7 @@
 #coding:utf-8
 
 # Copyright 2015 Netease Inc. All Rights Reserved.
-# Author: hztengkezhen@corp.netease.com
+# Author: tengkz@163.com
 
 """Fraud detection module for mobile games.
 
